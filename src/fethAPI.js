@@ -1,7 +1,7 @@
 
 
-const API_ID =  '0';
-const API_KEY = '260c8bf5f81a13b121504a94bd3a19cf';
+const API_ID =  'hidden';
+const API_KEY = 'hidden';
 
 
 export const getRecipes = async (query, mealTyp) => {
